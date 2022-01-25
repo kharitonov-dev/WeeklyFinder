@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		832257B727A0A2C40085CFE9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		835E8A11275811C600BD297A /* WeeklyFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeeklyFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		835E8A14275811C600BD297A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		835E8A16275811C600BD297A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		835E8A08275811C600BD297A = {
 			isa = PBXGroup;
 			children = (
+				832257B727A0A2C40085CFE9 /* README.md */,
 				835E8A13275811C600BD297A /* WeeklyFinder */,
 				835E8A12275811C600BD297A /* Products */,
 			);
@@ -292,7 +294,7 @@
 				DEVELOPMENT_TEAM = GLLU944MJ4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = WeeklyFinder/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Week;
+				INFOPLIST_KEY_CFBundleDisplayName = WeekFinder;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -322,7 +324,7 @@
 				DEVELOPMENT_TEAM = GLLU944MJ4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = WeeklyFinder/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Week;
+				INFOPLIST_KEY_CFBundleDisplayName = WeekFinder;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
